@@ -19,7 +19,7 @@ import utils
 from image_question import encode, beam_search_predict, encoder_model, decoder_model
 from google_trans_new import google_translator
 
-TOKEN = "1634959001:AAHUMcz1JFSeQExcsRm_gb_RB3CSKA_SclI"
+TOKEN = ""
 MENU, CHOOSING, THERAPY, UPLOAD_IMAGES, END_CONVERSATION, DELETE = range(6)
 FORCE_LANGUAGE = 'es'
 
