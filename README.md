@@ -1,2 +1,1 @@
-# TFG-Extracci-n-de-preguntas-a-partir-de-im-genes-mediante-t-cnicas-de-Deep-Learning
-Proyecto de fin de grado en Ingeniería Informática.
+Este proyecto consiste en un modelo de Deep Learning que genera perguntas a partir de imágenes. La idea final es que un terapeuta ocupacional se pueda apoyar en nuestro modelo a través de Telegram para realizar terapias de reminiscencia con sus pacientes. Tras pasarle fotografías al bot este empezará a hacer preguntas sobre dichas imágenes y a guardar las respuestas que el usuario de. De esta forma se generaría una base de datos de todas las entrevistas realizadas durante la terapia.
